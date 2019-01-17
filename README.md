@@ -48,6 +48,12 @@ data acquisition system from I/O modules by ModBus RTU protocol, and transfer da
    git submodule update
 ```
 
+next time:
+```bash
+   git pull --recurse-submodules
+   git submodule update --recursive --remote
+```
+
 ######  2. First step it's HOST preparetion. Needed to setup some development and thirdparty. There two variant of preparation:
            - prepare HOST for host build     
 
