@@ -7,3 +7,6 @@
 [submodule "mqttgateway"]
 	path = mqttgateway
 	url = https://github.com/azhigaylo/mqttgateway.git
+[submodule "pointmonitor"]
+	path = pointmonitor
+	url = https://github.com/azhigaylo/pointmonitor.git
