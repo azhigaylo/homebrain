@@ -1,3 +1,6 @@
 [submodule "build"]
 	path = build
 	url = https://github.com/azhigaylo/build.git
+[submodule "homebrain_core"]
+	path = homebrain_core
+	url = https://github.com/azhigaylo/homebrain_core.git
