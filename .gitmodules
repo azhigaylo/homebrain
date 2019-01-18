@@ -10,3 +10,6 @@
 [submodule "pointmonitor"]
 	path = pointmonitor
 	url = https://github.com/azhigaylo/pointmonitor.git
+[submodule "csvparser"]
+	path = csvparser
+	url = https://github.com/azhigaylo/csvparser.git
