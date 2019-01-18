@@ -1,4 +1,8 @@
 
+
+### PROJECT IS ON TRANSITION STATE FROM PRIVATE TO OPEN SOURCE, SO SOME PART OF SW DO NOT WORK YET...
+
+
 ### HomeBrain project description:
 
 OS Linux based software package, which allows turn your laptop or mini computer (BeagleBoard) into a centralized 
