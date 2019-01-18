@@ -4,3 +4,6 @@
 [submodule "homebrain_core"]
 	path = homebrain_core
 	url = https://github.com/azhigaylo/homebrain_core.git
+[submodule "mqttgateway"]
+	path = mqttgateway
+	url = https://github.com/azhigaylo/mqttgateway.git
