@@ -50,6 +50,8 @@ data acquisition system from I/O modules by ModBus RTU protocol, and transfer da
    git clone https://github.com/azhigaylo/homebrain.git
    git submodule init
    git submodule update
+   git pull --recurse-submodules
+   git submodule update --recursive --remote
 ```
 
 next time:
