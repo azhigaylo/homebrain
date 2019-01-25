@@ -62,16 +62,14 @@ next time:
 
 ######  2. First step it's HOST preparetion. Needed to setup some development and thirdparty. There two variant of preparation:
 
-           - prepare HOST for host build (CMake / DLT / Mosquitto / BuildRoot will be uploaded and builded.) 
+           - prepare HOST for host build (CMake/DLT/Mosquitto/BuildRoot will be uploaded and built.) 
 ```bash
            ./prepare_all.sh -i
 ```
-
-           - prepare HOST for target build
+           - prepare HOST for target build  (DLT/Mosquitto will be built for ARM) 
 ```bash
            ./prepare_all.sh -it
 ```
-
            - help :
 ```bash
            ./prepare_all.sh --help
@@ -83,12 +81,10 @@ next time:
 ```bash
            ./build_all.sh
 ```
-
            - build for TARGET, result will be available in folder </homebrain_third_party/host/buildroot/output/images/>
 ```bash
            ./build_all.sh -t
 ```
-
            - help :
 ```bash
            ./build_all.sh --help
