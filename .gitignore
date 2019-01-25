@@ -1,0 +1,4 @@
+
+# ignore all third party components
+third_party/
+
