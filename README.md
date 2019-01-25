@@ -61,8 +61,8 @@ next time:
 ```
 
 ######  2. First step it's HOST preparetion. Needed to setup some development and thirdparty. There two variant of preparation:
-           - prepare HOST for host build     
 
+           - prepare HOST for host build (CMake / DLT / Mosquitto / BuildRoot will be uploaded and builded.) 
 ```bash
            ./prepare_all.sh -i
 ```
@@ -71,7 +71,6 @@ next time:
 ```bash
            ./prepare_all.sh -it
 ```
-             difference is only in one things, for target build, BuildRoot will be uploaded and builded.
 
            - help :
 ```bash
