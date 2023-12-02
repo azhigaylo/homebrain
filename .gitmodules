@@ -13,3 +13,6 @@
 [submodule "csvparser"]
 	path = csvparser
 	url = https://github.com/azhigaylo/csvparser.git
+[submodule "wirelessbridge"]
+	path = wirelessbridge
+	url = https://github.com/azhigaylo/wirelessbridge.git
